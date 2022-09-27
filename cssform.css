@@ -1,0 +1,15 @@
+
+.header {
+
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+}
+
+.form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px;
+}
